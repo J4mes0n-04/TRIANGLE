@@ -1,5 +1,5 @@
 package geekbrains.homework4;
-
+//Glazyrin
 public class Triangle {
 
     public static TriangleType classify(final int a, final int b, final int c) {
