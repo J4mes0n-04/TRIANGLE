@@ -1,5 +1,5 @@
 package homework4;
-
+//Glazyrin
 
 import static geekbrains.homework4.TriangleType.EQUILATERAL;
 import static geekbrains.homework4.TriangleType.INVALID;
